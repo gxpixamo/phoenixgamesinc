@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<p align="center">
+<p align="center", scale="50">
   <img src="https://avatars.githubusercontent.com/u/195267090?s=400&u=148c1850806790ec902d4b8e7f47646c536adf61&v=4" width="100%" />
 </p>
 
