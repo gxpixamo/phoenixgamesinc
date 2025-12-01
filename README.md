@@ -1,7 +1,4 @@
 <!-- Profile Banner -->
-<p align="center", height="50", width="50">
-  <img src="https://avatars.githubusercontent.com/u/195267090?s=400&u=148c1850806790ec902d4b8e7f47646c536adf61&v=4" width="100%" />
-</p>
 
 <h1 align="center">✨ Hi, I'm <span style="color:#4CA3FF;">Gxpixamo</span> ✨</h1>
 
