@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshaybahadur21/akshaybahadur21/master/images/banner.png" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/195267090?s=400&u=148c1850806790ec902d4b8e7f47646c536adf61&v=4" width="100%" />
 </p>
 
 <h1 align="center">✨ Hi, I'm <span style="color:#4CA3FF;">Gxpixamo</span> ✨</h1>
@@ -13,7 +13,7 @@
 
 ## 🎨 About Me
 
-I'm a creator from **South Asia** who loves turning imagination into art and games.  
+I'm a creator from **Asia** who loves turning imagination into art and games.  
 I make:
 
 - 🟦 Pixel art  
@@ -40,29 +40,6 @@ I'm always practicing and learning new things.
 <p>
   <img src="https://skillicons.dev/icons?i=godot,java,cpp,lua,vscode,github,git,apple" />
 </p>
-
----
-
-## 🔥 GitHub Stats & Animations
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gxpixamo&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxpixamo&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gxpixamo&theme=tokyonight" />
-</p>
-
----
-
-## 🌀 Animated Divider
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-</p>
-
----
 
 ## 🎯 Goals
 - Create my own indie game  
